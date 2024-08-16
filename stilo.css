@@ -1,0 +1,45 @@
+header{
+  background-color: #F1F1F1;
+  text-align: center;
+  padding:auto;
+}
+*{
+    margin: 0;
+    padding: auto;
+    box-sizing: border-box;
+    text-align: center;
+    white-space: 5px;
+    width: auto;
+}
+img{
+    position: relative;
+}
+body{
+    color: #004E71;   
+    align-items: center;
+    .cima{
+        background-color:#FFFFFF;
+        width: auto; 
+        text-align: right;
+        display: flow-root;
+    }
+    .main{
+        width: auto
+        background-color#004E71;
+        color:#FFFFFF; 
+        border-bottom: #09161b;  
+        border-color: #FFFFFF; 
+        bottom: center;
+        }
+    .baixo{
+        background-color:#FFFFFF;
+        color:#004E71;
+    }
+    .conteiner{
+        -ms-flex-direction: column-reverse;
+        -ms-flex-align: center;
+    }
+    .footer{
+        position: relative;
+    }
+}
